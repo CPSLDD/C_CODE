@@ -1,0 +1,4 @@
+﻿  point.cpp
+c:\users\li\source\repos\point_3_30\point_3_30\point.cpp(15): error C2440: “初始化”: 无法从“const char [7]”转换为“char *”
+  c:\users\li\source\repos\point_3_30\point_3_30\point.cpp(15): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\li\source\repos\point_3_30\point_3_30\point.cpp(16): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
