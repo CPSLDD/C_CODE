@@ -1,0 +1,3 @@
+﻿  qsort.cpp
+g:\c语言项目文件\qsort\qsort\qsort.cpp(29): warning C4552: ”+“: 未使用表达式结果
+  Qsort.vcxproj -> G:\C语言项目文件\Qsort\Debug\Qsort.exe
